@@ -1,4 +1,12 @@
-### Hi there 👋
+## About👋
+<hr>
+
+Hi, I'm Yusa.
+I'm currently in a gap year for self-study in web development.
+Beside front-end developement, I have 4 years of experience in indie game design(as an artist with a bit coding skills!), digital marketing in game communities and 2 years of experience in education.
+
+## Get in touch
+<hr>
 
 <!--
 **Anthya1104/Anthya1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
