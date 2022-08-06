@@ -6,6 +6,8 @@ I'm currently in a gap year for self-study in web development, basically focused
 I have 4 years of experience in games industries. I worked as an artist in usual case, but I could also support the programming tasks in need. Beside the development part, I have once worked in partnership with Blizzard Entertainment as a marketing specialist and successfully reached more than 400,000 socail engagements in the launch day when DIABLO II: resurrected released.
 <hr>
 
+## Get in touch :mailbox:
+
 <!--
 **Anthya1104/Anthya1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
