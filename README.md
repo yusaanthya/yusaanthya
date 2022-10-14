@@ -15,9 +15,12 @@ I have **4 years of experience** in games industries. I worked as an artist in u
 ## Get in touch :mailbox:
 
 <div align='left'>
-<a src='https://www.linkedin.com/in/yusa-liu-784749176/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
-<a src='https://yusaanthyadesign.artstation.com/'><img src='https://i.imgur.com/LfFUInn.png' style='height:28px'/></a>
-</div>
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][1]
+[![image](https://i.imgur.com/h0Ojyju.png)][2]
+
+[1]:https://www.linkedin.com/in/yusa-liu-784749176/
+[2]:https://yusaanthyadesign.artstation.com/
 
 <!--
 **Anthya1104/Anthya1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
