@@ -3,9 +3,13 @@
 
 
 Hi, I'm Yusa.
-I'm currently in a gap year for self-study in web development, basically focused on frontend skills but also with some little treats about backend knowledgs.
-I have **4 years of experience** in games industries. I worked as an artist in usual case, but I could also support the programming tasks in need. Beside the development part, I have worked in partnership with **Blizzard Entertainment** for marketing and strategies, and successfully reached more than **400,000** community engagements in the launch day when **Diablo II: Resurrected** released.
+I'm currently in self-study about web development, basically focused on frontend React.js and Node.js.
+I have **4 years of experience** in game's industries. Mostly I worked as an artist generalist, and I could also support for programming tasks in need. 
+Beside development, I have worked in partnership with **Blizzard Entertainment** for marketing and strategies, and successfully reached more than **400,000** community engagements in the launch day when **Diablo II: Resurrected** released.
 
+:sparkles: **Currently in job hunting**<br>
+:sparkles: **Commissions Opened**<br>
+:sparkles: **Feel free to get in touch**<br>
 <hr>
 
 [![Yusa Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthya1104&theme=jolly&&hide=stars&show_icons=true&card_width=1050px)](https://github.com/anuraghazra/github-readme-stats)
