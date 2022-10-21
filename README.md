@@ -3,7 +3,7 @@
 
 Hi, I'm Yusa.<br><br>
 💿 Currently in self-study about web development, basically focused on React.js and Node.js.<br>
-💿 Having **4 years of experience** in game's industries. Mostly worked as an artist generalist and could also support for programming tasks<br>
+💿 Having **4 years of experience** in game's industries. Mostly worked as an artist generalist and could also support for coding tasks<br>
 💿 Having worked in partnership with **Blizzard Entertainment** for marketing and strategies<br>
 💿 Successfully reached more than **400,000** community engagements in the **1st** day **Diablo II: Resurrected** released.
 
