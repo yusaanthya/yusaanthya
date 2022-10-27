@@ -16,6 +16,7 @@ Hi, I'm Yusa.<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthya1104&layout=compact&theme=jolly&card_width=1000px)](https://github.com/anuraghazra/github-readme-stats)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Anthya1104?theme=unicorn&width=1050px)
 
 ## Languanges
 
