@@ -1,5 +1,4 @@
 ## About👋
-<hr>
 
 Hi, I'm Yusa.<br><br>
 💿 Currently in self-study about web development, basically focused on React.js and Node.js.<br>
