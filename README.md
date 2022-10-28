@@ -6,7 +6,7 @@ Hi, I'm Yusa.<br><br>
 💿 Having worked in partnership with **Blizzard Entertainment** for marketing and strategies<br>
 💿 Successfully reached more than **400,000** community engagements in the **1st** day **Diablo II: Resurrected** released.
 
-:sparkles: **Currently in job hunting**<br>
+:sparkles: **Currently in job hunting (aiming to backend engineer)**<br>
 :sparkles: **Commissions Opened**<br>
 :sparkles: **Feel free to get in touch**<br>
 <hr>
