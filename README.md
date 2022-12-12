@@ -1,7 +1,7 @@
 ## About👋
 
 Hi, I'm Yusa.<br><br>
-💿 Newbie backend engineer learning Scala and Go.<br>
+💿 Newbie backend engineer focusing on Scala and Go.<br>
 💿 Self studied for Node.js and React and built an e-book online shop in 4 weeks (with extra 4 weeks on concept and design).<br>
 💿 Having **4 years of experience** in game's industries. Mostly worked as an artist generalist and could also support for coding tasks<br>
 💿 Having worked in partnership with **Blizzard Entertainment** for marketing and strategies<br>
