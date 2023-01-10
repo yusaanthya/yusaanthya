@@ -1,9 +1,9 @@
 ## About👋
 
 Hi, I'm Yusa.<br><br>
-💿 Newbie backend engineer focusing on Scala and Go.<br>
+💿 Newbie backend engineer in **VIVERSE**, focusing on Scala and Go.<br>
 💿 Self studied for Node.js and React and built an e-book online shop in 4 weeks (with extra 4 weeks on concept and design).<br>
-💿 Having **4 years of experience** in game's industries. Mostly worked as an artist generalist and could also support for coding tasks<br>
+💿 Having **4 years of experience** in game's industries as artist generalist and community specialist.<br>
 💿 Having worked in partnership with **Blizzard Entertainment** for marketing and strategies<br>
 💿 Successfully reached more than **400,000** community engagements in the **1st** day **Diablo II: Resurrected** released.
 
@@ -16,13 +16,13 @@ Hi, I'm Yusa.<br><br>
 
 ## Languanges
 
+![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![image](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black)
-![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) (currently learning)
 
 ## Framework & Library
 
