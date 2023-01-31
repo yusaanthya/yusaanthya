@@ -5,7 +5,7 @@ Hi, I'm Yusa.<br><br>
 💿 Self studied for Node.js and React and built an e-book online shop in 4 weeks (with extra 4 weeks on concept and design).<br>
 💿 Having **4 years of experience** in game's industries as artist generalist and community specialist.<br>
 💿 Having worked in partnership with **Blizzard Entertainment** for marketing and strategies<br>
-💿 Successfully reached more than **400,000** community engagements in the **1st** day **Diablo II: Resurrected** released.
+💿 Successfully reached more than **400,000** community engagements at the **1st** day **Diablo II: Resurrected** released.
 
 :sparkles: **Feel free to get in touch**<br>
 <hr>
