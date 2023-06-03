@@ -1,7 +1,7 @@
 ## About👋
 
 Hi, I'm Yusa.<br><br>
-💿 Newbie backend engineer at **VIVERSE**, focusing on Scala and Go.<br>
+💿 Backend engineer at **VIVERSE**, focusing on Scala and Go.<br>
 💿 Self studied for Node.js and React and built an e-book online shop in 4 weeks (with extra 4 weeks on concept and design).<br>
 💿 Having **4 years of experience** in game's industries as artist generalist and community specialist.<br>
 💿 Having worked in partnership with **Blizzard Entertainment** for marketing and strategies<br>
