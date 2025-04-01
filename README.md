@@ -1,9 +1,9 @@
 ## About👋
 
 Hi, I'm Yusa.<br><br>
-💿 Backend engineer at **HTC VIVERSE**, focusing on Scala and Go.<br>
-💿 Self studied for Node.js and React and built an e-book online shop in 4 weeks (with extra 4 weeks on concept and design).<br>
-💿 Having **4 years of experience** in game's industries as artist generalist and community specialist.<br>
+💿 Backend engineer with more than 3 years of experience on software development spanning over microservices-based backend, game scripting and localisation QA.<br>
+💿 Self studied for Golang and Scala within one month to switch tech stack depends on different microservices.<br>
+💿 Independently contributed for new features from design, scoping to launche, including **VIVERSE Avatar creator2.0**, **VIVERSE Outfit Creator** and **VIVERSE Avatar Animation Library**<br>
 💿 Having worked in partnership with **Blizzard Entertainment** for marketing and strategies<br>
 💿 Successfully reached more than **400,000** community engagements at the **1st** day **Diablo II: Resurrected** released.
 
