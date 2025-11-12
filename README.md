@@ -1,10 +1,10 @@
 ## About👋
 
 Hi, I'm Yusa.<br><br>
-💿 Backend engineer with more than 3 years of experience on software development spanning over microservices-based backend and game development.<br>
+💿 Backend engineer with 2+ YOE.<br>
 💿 Switch between multiple tech stack suck as golang, scala in a livly rythm to support different microservices.<br>
 💿 Independent contributor from design scoping to product launch, including **VIVERSE Avatar creator2.0**, **VIVERSE Outfit Creator** and **VIVERSE Avatar Animation Library**<br>
-💿 Took ownnership for **VIVERSE Closet2.0 Revision**, extended the avatar backend system with 3 different new features and optimize the VRM texture support from standard 512px to 2K<br>
+💿 Took ownnership for **VIVERSE Closet2.0 Revision**<br>
 💿 Having worked in partnership with **Blizzard Entertainment** for marketing and strategies<br>
 
 :sparkles: **Feel free to get in touch**<br>
