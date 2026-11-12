@@ -1,7 +1,7 @@
 ## About👋
 
 Hi, I'm Yusa.<br><br>
-💿 Backend engineer with 2+ YOE.<br>
+💿 Backend engineer, trained as a game designer, multi-field experience.<br>
 💿 Switch between multiple tech stack suck as golang, scala in a livly rythm to support different microservices.<br>
 💿 Independent contributor from design scoping to product launch, including **VIVERSE Avatar creator2.0**, **VIVERSE Outfit Creator** and **VIVERSE Avatar Animation Library**<br>
 💿 Took ownnership for **VIVERSE Closet2.0 Revision**<br>
